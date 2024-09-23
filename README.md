@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently learning to become a Front_end developer and have reaches to a good point and now looking for a junior position. 
-
+I'm a dedicated front-end developer with a strong foundation in HTML, CSS, and JavaScript. I'm passionate about creating visually appealing and user-friendly websites.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-atef-0315a9242) 
